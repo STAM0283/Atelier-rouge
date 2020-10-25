@@ -9,12 +9,3 @@ const connexion = mysql.createConnection({
 module.exports = connexion;
 
 
-// const mysql = require("mysql"); 
-// const connection = mysql.createConnection({
-//     user: 'root',
-//     password: 'stam@0283',
-//     database: 'movies'
-    
-//     })
-//     module.exports = connection; 
-
